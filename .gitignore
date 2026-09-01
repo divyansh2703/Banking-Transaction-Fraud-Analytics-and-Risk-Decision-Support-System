@@ -1,0 +1,123 @@
+# Banking and FinTech project datasets
+/data/raw/**
+/data/interim/**
+/data/processed/**
+/data/external/**
+/data/downloads/**
+/data/cache/**
+/datasets/**
+
+# Preserve empty data folders and their documentation
+!/data/raw/.gitkeep
+!/data/raw/README.md
+!/data/interim/.gitkeep
+!/data/interim/README.md
+!/data/processed/.gitkeep
+!/data/processed/README.md
+!/data/external/.gitkeep
+!/data/external/README.md
+
+# Large data formats outside the standard data folders
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.arrow
+*.avro
+*.orc
+*.jsonl
+*.ndjson
+*.xlsx
+*.xls
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.gz
+
+# Allow deliberately created lightweight samples and report files
+!/data/sample/**
+!/data/samples/**
+!/examples/data/**
+!/tests/fixtures/**
+!/excel/**/*.xlsx
+!/reports/**/*.csv
+!/reports/**/*.xlsx
+
+# Local databases and database exports
+*.db
+*.sqlite
+*.sqlite3
+*.duckdb
+*.dump
+
+# Trained models and large analytics artifacts
+/models/**
+!/models/.gitkeep
+!/models/README.md
+*.pkl
+*.pickle
+*.joblib
+*.onnx
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.pbix
+*.twbx
+*.hyper
+
+# Generated outputs, caches, and logs
+/artifacts/**
+/outputs/**
+/cache/**
+/tmp/**
+/logs/**
+!/logs/.gitkeep
+
+# Python environments and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Editors and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+/data/raw/
+/data/interim/
+/data/processed/
+/data/external/
+
+.venv/
+venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+.DS_Store

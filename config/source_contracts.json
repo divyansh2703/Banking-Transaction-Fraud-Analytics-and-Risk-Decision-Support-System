@@ -1,0 +1,76 @@
+{
+  "sources": [
+    {
+      "file_name": "users_data.csv",
+      "method": "csv_full",
+      "expected_records": 2000,
+      "required_columns": [
+        "id",
+        "current_age",
+        "retirement_age",
+        "birth_year",
+        "birth_month",
+        "gender",
+        "address",
+        "latitude",
+        "longitude",
+        "per_capita_income",
+        "yearly_income",
+        "total_debt",
+        "credit_score",
+        "num_credit_cards"
+      ]
+    },
+    {
+      "file_name": "cards_data.csv",
+      "method": "csv_full",
+      "expected_records": 6146,
+      "required_columns": [
+        "id",
+        "client_id",
+        "card_brand",
+        "card_type",
+        "card_number",
+        "expires",
+        "cvv",
+        "has_chip",
+        "num_cards_issued",
+        "credit_limit",
+        "acct_open_date",
+        "year_pin_last_changed",
+        "card_on_dark_web"
+      ]
+    },
+    {
+      "file_name": "transactions_data.csv",
+      "method": "csv_chunked",
+      "expected_records": 13305915,
+      "chunk_size": 100000,
+      "required_columns": [
+        "id",
+        "date",
+        "client_id",
+        "card_id",
+        "amount",
+        "use_chip",
+        "merchant_id",
+        "merchant_city",
+        "merchant_state",
+        "zip",
+        "mcc",
+        "errors"
+      ]
+    },
+    {
+      "file_name": "mcc_codes.json",
+      "method": "json_mapping",
+      "expected_records": 109
+    },
+    {
+      "file_name": "train_fraud_labels.json",
+      "method": "json_stream",
+      "json_prefix": "target",
+      "expected_records": 8914963
+    }
+  ]
+}
