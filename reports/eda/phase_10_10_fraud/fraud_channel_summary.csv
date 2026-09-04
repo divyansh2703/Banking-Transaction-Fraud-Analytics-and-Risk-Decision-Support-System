@@ -1,0 +1,4 @@
+use_chip,labelled_transactions,fraud_transactions,fraud_rate
+Online Transaction,1043975,8779,0.008409205201273976
+Chip Transaction,3202776,3176,0.0009916397525146935
+Swipe Transaction,4668212,1377,0.00029497375012103134

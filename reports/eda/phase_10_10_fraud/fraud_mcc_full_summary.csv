@@ -1,0 +1,110 @@
+mcc,labelled_transactions,fraud_transactions,fraud_rate,mcc_description
+1711,2101,0,0.0,"Heating, Plumbing, Air Conditioning Contractors"
+3000,2039,37,0.018146150073565473,Steelworks
+3001,2062,25,0.01212415130940834,Steel Products Manufacturing
+3005,256,22,0.0859375,Miscellaneous Metal Fabrication
+3006,245,29,0.11836734693877551,Miscellaneous Fabricated Metal Products
+3007,260,17,0.06538461538461539,Coated and Laminated Products
+3008,270,17,0.06296296296296296,Steel Drums and Barrels
+3009,273,22,0.08058608058608059,Fabricated Structural Metal Products
+3058,2025,20,0.009876543209876543,"Tools, Parts, Supplies Manufacturing"
+3066,1839,10,0.005437737901033171,Miscellaneous Metals
+3075,236,12,0.05084745762711865,"Bolt, Nut, Screw, Rivet Manufacturing"
+3132,1895,16,0.008443271767810026,Leather Goods
+3144,222,23,0.1036036036036036,Floor Covering Stores
+3174,1894,14,0.007391763463569166,Upholstery and Drapery Stores
+3256,1849,19,0.010275824770146024,"Brick, Stone, and Related Materials"
+3260,1860,17,0.00913978494623656,Pottery and Ceramics
+3359,7342,88,0.011985834922364479,Non-Ferrous Metal Foundries
+3387,5617,57,0.010147765711233755,"Electroplating, Plating, Polishing Services"
+3389,7003,102,0.014565186348707697,Non-Precious Metal Services
+3390,5528,56,0.010130246020260492,Miscellaneous Metalwork
+3393,5387,35,0.006497122702803044,Heat Treating Metal Services
+3395,5491,42,0.007648879985430705,Welding Repair
+3405,5333,49,0.009188074254640915,Ironwork
+3504,10689,137,0.012816914585087474,Gardening Supplies
+3509,10591,129,0.012180152960060428,Industrial Equipment and Supplies
+3596,9538,81,0.008492346403858252,Miscellaneous Machinery and Parts Manufacturing
+3640,9919,70,0.007057163020465773,"Lighting, Fixtures, Electrical Supplies"
+3684,10671,112,0.010495736107206447,Semiconductors and Related Devices
+3722,10414,151,0.014499711926253121,Passenger Railways
+3730,9594,81,0.008442776735459663,Ship Chandlers
+3771,9529,78,0.008185538881309686,Railroad Passenger Transport
+3775,9245,59,0.006381828015143321,Railroad Freight
+3780,9699,80,0.00824827301783689,Computer Network Services
+4111,56380,0,0.0,Local and Suburban Commuter Transportation
+4112,1463,87,0.059466848940533154,Passenger Railways
+4121,335586,300,0.000893958627594715,Taxicabs and Limousines
+4131,1506,45,0.029880478087649404,Bus Lines
+4214,66744,165,0.0024721323265012585,Motor Freight Carriers and Trucking
+4411,276,165,0.5978260869565217,Cruise Lines
+4511,1913,38,0.01986408782017773,Airlines
+4722,21457,162,0.007549983688306846,Travel Agencies
+4784,451814,0,0.0,Tolls and Bridge Fees
+4814,146244,162,0.001107737753343727,Telecommunication Services
+4829,394401,725,0.0018382306332894694,Money Transfer
+4899,34666,16,0.00046154733744879707,"Cable, Satellite, and Other Pay Television Services"
+4900,162371,0,0.0,"Utilities - Electric, Gas, Water, Sanitary"
+5045,1883,204,0.10833775889537971,"Computers, Computer Peripheral Equipment"
+5094,3525,242,0.06865248226950355,Precious Stones and Metals
+5192,6908,0,0.0,"Books, Periodicals, Newspapers"
+5193,6051,96,0.015865146256817054,"Florists Supplies, Nursery Stock and Flowers"
+5211,116303,206,0.0017712354797382699,Lumber and Building Materials
+5251,23807,72,0.003024320577981266,Hardware Stores
+5261,4709,0,0.0,Lawn and Garden Supply Stores
+5300,403343,991,0.002456965907428665,Wholesale Clubs
+5310,165755,859,0.005182347440499532,Discount Stores
+5311,318511,2251,0.007067259843459095,Department Stores
+5411,1066833,425,0.0003983753783394402,"Grocery Stores, Supermarkets"
+5499,979396,131,0.00013375590670168145,Miscellaneous Food Stores
+5533,802,29,0.03615960099750624,Automotive Parts and Accessories Stores
+5541,955123,168,0.000175893576010629,Service Stations
+5621,6938,18,0.0025944076102623233,Women's Ready-To-Wear Stores
+5651,48647,385,0.007914157090879191,Family Clothing Stores
+5655,11262,19,0.0016870893269401528,"Sports Apparel, Riding Apparel Stores"
+5661,9029,52,0.005759220290176099,Shoe Stores
+5712,2600,170,0.06538461538461539,"Furniture, Home Furnishings, and Equipment Stores"
+5719,57608,313,0.0054332731565060405,Miscellaneous Home Furnishing Stores
+5722,226,7,0.030973451327433628,Household Appliance Stores
+5732,4689,402,0.08573256557901472,Electronics Stores
+5733,204,76,0.37254901960784315,Music Stores - Musical Instruments
+5812,669808,121,0.00018064878293481116,Eating Places and Restaurants
+5813,166460,136,0.0008170130962393368,Drinking Places (Alcoholic Beverages)
+5814,334333,235,0.000702892026811592,Fast Food Restaurants
+5815,41967,449,0.010698882455262468,"Digital Goods - Media, Books, Apps"
+5816,1866,109,0.05841371918542337,Digital Goods - Games
+5912,517400,479,0.0009257827599536142,Drug Stores and Pharmacies
+5921,86322,117,0.0013553902828942796,"Package Stores, Beer, Wine, Liquor"
+5932,3977,86,0.021624339954739752,Antique Shops
+5941,755,17,0.022516556291390728,Sporting Goods Stores
+5942,155782,42,0.00026960752846927116,Book Stores
+5947,1477,19,0.012863913337846988,"Gift, Card, Novelty Stores"
+5970,45281,78,0.0017225767982155871,"Artist Supply Stores, Craft Shops"
+5977,4397,74,0.01682965658403457,Cosmetic Stores
+6300,34196,0,0.0,"Insurance Sales, Underwriting"
+7011,11150,81,0.0072645739910313905,"Lodging - Hotels, Motels, Resorts"
+7210,21074,15,0.0007117775457910221,Laundry Services
+7230,71381,8,0.00011207464171137978,Beauty and Barber Shops
+7276,2523,0,0.0,Tax Preparation Services
+7349,34215,4,0.00011690778898144089,Cleaning and Maintenance Services
+7393,8507,0,0.0,"Detective Agencies, Security Services"
+7531,757,5,0.0066050198150594455,Automotive Body Repair Shops
+7538,320125,13,4.060913705583756e-05,Automotive Service Shops
+7542,26321,15,0.0005698871623418564,Car Washes
+7549,732,7,0.009562841530054645,Towing Services
+7801,11798,84,0.00711985082217325,"Athletic Fields, Commercial Sports"
+7802,10749,1,9.303190994511117e-05,"Recreational Sports, Clubs"
+7832,97029,71,0.0007317399952591493,Motion Picture Theaters
+7922,26272,133,0.005062423873325213,Theatrical Producers
+7995,21348,34,0.0015926550496533633,"Betting (including Lottery Tickets, Casinos)"
+7996,7735,123,0.01590174531351002,"Amusement Parks, Carnivals, Circuses"
+8011,16381,6,0.0003662780050057994,"Doctors, Physicians"
+8021,21744,10,0.000459896983075791,Dentists and Orthodontists
+8041,7037,2,0.0002842120221685377,Chiropractors
+8043,11114,11,0.0009897426669066042,"Optometrists, Optical Goods and Eyeglasses"
+8049,7043,1,0.0001419849495953429,Podiatrists
+8062,2357,9,0.003818413237165889,Hospitals
+8099,10089,2,0.00019823570224997521,Medical Services
+8111,4779,0,0.0,Legal Services and Attorneys
+8931,2354,0,0.0,"Accounting, Auditing, and Bookkeeping Services"
+9402,66439,47,0.0007074158250425202,Postal Services - Government Only
